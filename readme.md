@@ -8,3 +8,7 @@ git --oneline
 git log
 git diff
 git difftool
+
+|NOMBRE|GITHUB|
+|MIGUEL|   |
+|CARLOS|   |
